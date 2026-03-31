@@ -1,5 +1,5 @@
 # AI-ML-prolog-diagnosis-project
-medical diagnosis project using swi prolog
+Medical diagnosis project using swi prolog
 # Medical Diagnosis Expert System
 
 ## Overview
