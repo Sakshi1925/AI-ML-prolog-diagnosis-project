@@ -23,5 +23,6 @@ This project is a **Medical Diagnosis Expert System** implemented in Prolog. It 
    ```bash
    swipl
 ## Screenshots
-<img width="1920" height="1014" alt="{1B6B1923-81F2-434E-8DD5-489B520BBE3F}" src="https://github.com/user-attachments/assets/457670f6-b110-4c8a-a69c-8513e13b04c9" />
+<img width="924" height="783" alt="{BA122C81-4EEC-4162-AA17-9F28E8C219A5}" src="https://github.com/user-attachments/assets/03c7f091-9cb6-4527-b7a2-29ce8092fe80" />
+
 
